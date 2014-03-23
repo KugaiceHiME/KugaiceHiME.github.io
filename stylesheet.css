@@ -36,9 +36,13 @@ a.image:hover .picture {
   background-color:#3F5CA9;
   height:40px;
   width:1366px;
-  float:left;
+  float: right;
+  color: #ffffff;
   }
 
+/*a #title {
+  color: #ffffff;
+}*/
 
 #newsbar {
    background-color:#3F5CA9;
@@ -52,4 +56,14 @@ img {
   height: 95px;
   width: 269px;
   margin-top: 200px;
+}
+
+#terms {
+  float:bottom;
+  color: #000000;
+}
+
+#links_bar, #links_bar a {
+  float: right;
+  color: #ffffff;
 }
